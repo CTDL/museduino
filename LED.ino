@@ -1,8 +1,6 @@
 /*
   Museduino | LED Tutorial
   Turns on LED for one second, then off for one second, repeatedly.
-
-  This code is a modified version of Arduino's Blink example.
 */
  
 // Digital Pin 8 on Satellite Pin 3 via Port A
