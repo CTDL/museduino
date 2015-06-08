@@ -5,7 +5,7 @@
  
 // Digital Pin 6 on Satellite Pin 5 via Port A
 int s5A = 6;
-// Digital Pin 2 on Satellite Pin 3 via Port D
+// Digital Pin 4 on Satellite Pin 4 via Port C
 int s4C = 4;
 
 // variables
