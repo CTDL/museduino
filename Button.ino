@@ -6,7 +6,7 @@
 // Digital Pin 6 on Satellite Pin 5 via Port A
 int s5A = 6;
 // Digital Pin 2 on Satellite Pin 3 via Port D
-int s3D = 2;
+int s4C = 4;
 
 // variables
 int buttonState = 0; // variable for reading the button status
@@ -16,7 +16,7 @@ void setup() {
   // initialize the led pin as an output.
   pinMode(s5A, OUTPUT); 
   // initialize the button pin as an output.
-  pinMode(s3D, INPUT);  
+  pinMode(s4C, INPUT);  
     
 }
 
@@ -24,7 +24,7 @@ void setup() {
 void loop() {
   
   // read the state of the button value:
-  buttonState = digitalRead(s3D);
+  buttonState = digitalRead(s4C);
   
   // check if the button is pushed
   // if it is, the buttonState is HIGH:
