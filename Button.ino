@@ -11,7 +11,6 @@ int s3D = 2;
 // variables
 int buttonState = 0; // variable for reading the button status
 
-
 // the setup routine runs once when you press reset:
 void setup() {                
   // initialize the led pin as an output.
@@ -26,7 +25,6 @@ void loop() {
   
   // read the state of the button value:
   buttonState = digitalRead(s3D);
-  
   
   // check if the button is pushed
   // if it is, the buttonState is HIGH:
