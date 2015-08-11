@@ -10,7 +10,7 @@ int s2A = A1;
 int s3A = 9; //default arduino pin is D8, use PWM Select to swap with D9
 
 //variables
-int sensorValue = 0; //potentiometer value
+int InputValue = 0; //potentiometer value
 int motorValue = 0; //motor speed value
 
 // the setup routine runs once when you press reset:
@@ -28,10 +28,10 @@ void setup() {
 void loop() {
   
   //read value from potentiometer
-  sensorValue = analogRead(s2A);
+  inputValue = analogRead(s2A);
   
   //map value from 0 (off) to 255 (on)
-  motorValue = map(sensorValue, 1023, 0, 0, 255);
+  motorValue = map(inputValue, 1023, 0, 0, 255);
   
   Serial.println(motorValue);
   
@@ -42,6 +42,5 @@ void loop() {
     //stop the motor
     digitalWrite(s3A, LOW);
   }
-  
   
 }
