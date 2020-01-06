@@ -7,7 +7,7 @@
 int s1A = A0;
 
 //satellite Pin 3 on Port A 
-int s3A = 8; //default arduino pin is D8~, use Analog Select to swap with D9
+int s3A = 9; //default arduino pin is D8, use Analog Select to swap with D9~
 
 //variables
 int inputValue = 0; //potentiometer value
