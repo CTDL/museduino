@@ -33,7 +33,7 @@ void loop() {
   //map value from 0 (off) to 255 (on)
   motorValue = map(inputValue, 1023, 0, 0, 255);
   
-  Serial.println(motorSpeed);
+  Serial.println(motorValue);
   
   //if motorvalue > 0, set the speed
   if(motorValue > 0) {
