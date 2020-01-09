@@ -31,12 +31,12 @@ void loop() {
   inputValue = analogRead(s1A);
   
   //map value from 0 (off) to 255 (on)
-  motorSpeed = map(inputValue, 1023, 0, 0, 255);
+  motorValue = map(inputValue, 1023, 0, 0, 255);
   
   Serial.println(motorSpeed);
   
   //if motorvalue > 0, set the speed
-  if(motorSpeed > 0) {
+  if(motorValue > 0) {
     analogWrite(s3A, motorSpeed);
   } else {
     //stop the motor
