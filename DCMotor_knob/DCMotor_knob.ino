@@ -37,7 +37,7 @@ void loop() {
   
   //if motorvalue > 0, set the speed
   if(motorValue > 0) {
-    analogWrite(s3A, motorSpeed);
+    analogWrite(s3A, motorValue);
   } else {
     //stop the motor
     digitalWrite(s3A, LOW);
