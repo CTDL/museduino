@@ -1,0 +1,9 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1,J2";"RJ45_8";2;"RJ45_01X08";;;
+2;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"470";;;
+3;"Mount_hole,Mount_Hole";"MountingHole_3.2mm_M3";2;"MountingHole_3.2mm_M3";;;
+4;"D1";"LED_D3.0mm";1;"LED";;;
+5;"R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"220";;;
+6;"R3,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"470";;;
+7;"J4,J5,J6,J7,J3";"Screw_Header_Straight_1x04_Pitch2.54mm";5;"CONN_01X04";;;
+8;"Q1";"TO-251-1EP_IPAK_Horizontal_smorg";1;"NTD3055L104-1G ";;;
