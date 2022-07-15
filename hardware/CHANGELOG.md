@@ -30,6 +30,7 @@ The Museduino shield distributes 20 Arduino pins between 4 CAT5/RJ-45 â€œportsâ€
 
 ~ arduino pwm pin
 * pwm switch
+
 ** analog switch
 
 
@@ -123,8 +124,8 @@ C, D and E contains a jumper that allows you to switch voltage between 5v from c
 The Museduino distributes 5 different Arduino pins on ports A, B, C, or D labeled on the shield. A satellite (S) connected on either port allows access to the specified Arduino pins used for sensors/actuators. 
 
 | s  | s | A | B | C | D |
-| smorgasboard pins  |  ext power pins | j5 | j6 | j8 | j7 |	
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| smorgasboard pins  |  ext power pins | j5 | j6 | j8 | j7 |	
 | j14 | j19 | A0  | D13  | A2 | A4 |
 | j16  | j20 | A1  | D12  | A3 | A5 |
 | j12  | j21 | * D8  | D11~  | D5~ | * D2 |
