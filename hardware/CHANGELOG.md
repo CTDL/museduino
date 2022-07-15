@@ -24,9 +24,9 @@ The Museduino shield distributes 20 Arduino pins between 4 CAT5/RJ-45 â€œportsâ€
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | A0  | D13  | * A3 | A4 |
 | 2 | A1  | D12  | A2 | A5 |
-| 3 | D8  | D11~  | ** D5~ | * D2 |
+| 3 | * D8  | D11~  | ** D5~ | * D2 |
 | 4  | D7  | D10~  | D4 | D1 |
-| 5  | D6~  | D9~  | D3~ | ** D0 |
+| 5  | D6~  | * D9~  | D3~ | ** D0 |
 
 ~ arduino pwm pin
 * pwm switch
@@ -66,6 +66,7 @@ The Museduino distributes 5 different Arduino pins on ports A, B, C, or D labele
 | 3 | * D8  | D11~  | D5~ | * D2 |
 | 4 | D7  | D10~  | D4 | D1 |
 | 5 | D6~  | * D9~  | * D3~ | D0 |
+
 ~ arduino pwm pin
 * pwm switch
 
@@ -86,6 +87,7 @@ The Museduino distributes 5 different Arduino pins on ports A, B, C, or D labele
 | 3 | * D8  | D11~  | D5~ | * D2 |
 | 4 | D7  | D10~  | D4 | D1 |
 | 5 | D6~  | * D9~  | * D3~ | D0 |
+
 ~ arduino pwm pin
 * pwm switch
 
@@ -128,6 +130,7 @@ The Museduino distributes 5 different Arduino pins on ports A, B, C, or D labele
 | j12  | j21 | * D8  | D11~  | D5~ | * D2 |
 | j15  | j18 | D7  | D10~  | D4 | D1 |
 | j17  | j23 | D6~  | * D9~  | * D3~ | D0 |
+
 ~ arduino pwm pin
 * pwm switch
 
