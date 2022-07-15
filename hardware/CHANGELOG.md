@@ -106,7 +106,7 @@ New labels on PCB and to match Distributed I/O chart.
 Main shield allows distributed PWM pins to switch between ports (cat5 pinout). For example, pin D9~ on port B can switch places with pin D8 on port A. Pin D3~ on Port D can also switch with Pin D2 on port C. This feature is useful when you need an extra PWM pin to be accessed from a Satellite board.
 
 #### Smorgasboard 
-Smorgasboard satellite board has 5 sets of headers for connecting to sensors/actuators labeled A through E. Each i/o has its own pin configuration. 
+Smorgasboard satellite board has 5 sets of headers for connecting to sensors/actuators labeled A through E in the schematic. Each i/o has its own pin configuration. 
 
 A, B - power, signal pin, signal pin, ground pin
 C - power, signal with open drain to ground (mosfet), direct signal, ground pin
@@ -115,7 +115,7 @@ D, E - power, signal pin with resistor n series, signal pin, ground pin
 ##### External Power board 
 Additional Satellite board named External Power board is designed for sensor and actuators that require their own external power supply (NeoPixels, DC Motors, etc). Since satellites connected via CAT5 cables can be as long or short as needed, this board is particularly useful for large-scale installations.
 
-External Power satellite board has 5 sets of headers for connecting to sensors/actuators labeled A through E. Each i/o has its own pin configuration.  
+External Power satellite board has 5 sets of headers for connecting to sensors/actuators labeled A through E in the schematic. Each i/o has its own pin configuration.  
 
 A, B - power, signal pin, signal pin, ground pin
 C, E - power, signal with open drain to ground (mosfet), direct signal, ground pin
