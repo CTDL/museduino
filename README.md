@@ -3,7 +3,15 @@ an open source electronics environment for exhibits
 | <a href="https://museduino.org">museduino.org</a>
 
 
-<a href="https://github.com/CTDL/museduino/tree/master/tutorials">Tutorials and Circuit Diagrams</a>
+## PCB design files and Schematics
 
-<a href="https://github.com/CTDL/museduino/tree/master/hardware">PCB design files and Schematics</a>
+All files are under <a href="https://github.com/CTDL/museduino/tree/master/hardware">hardware</a>  folder and subdivided by PCB design software.
 
+ExpressPCB folder contains versions 2.2 and below. Kicad folder is organized by board name contains its own versions (3.0 or greater).
+
+View changelog.md for further information on changes between versions.
+
+
+## Tutorials and Circuit Diagrams
+Content for workshops and museduino guides can be found under 
+<a href="https://github.com/CTDL/museduino/tree/master/tutorials">tutorials</a> folder.

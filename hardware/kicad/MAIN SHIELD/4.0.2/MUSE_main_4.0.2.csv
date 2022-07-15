@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1,J4,J11,J14";"Pin_Header_Straight_1x08_Pitch2.54mm";4;"CONN_01X08";;;
+2;"J2,J12";"Pin_Header_Straight_1x10_Pitch2.54mm";2;"CONN_01X10";;;
+3;"J3,J13";"Pin_Header_Straight_1x06_Pitch2.54mm";2;"CONN_01X06";;;
+4;"J5,J8,J6";"RJ45_8";3;"CONN_01X08";;;
+5;"J7";"RJ45_8";1;"CONN_01X08";;;
+6;"D1";"LED_D3.0mm";1;"LED";;;
+7;"J9";"BARREL_JACK_RND";1;"BARREL_JACK";;;
+8;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"470";;;
+9;"U1";"TO-220_Horizontal";1;"LM7805CT";;;
+10;"JP1";"Pin_Header_Straight_1x03_Pitch2.54mm";1;"CONN_01X03";;;
+11;"JP5,JP6,JP2,JP3";"Pin_Header_Straight_2x03_Pitch2.54mm";4;"CONN_02X03";;;
+12;"G***";"open_hdwe_rev";1;"LOGO";;;
