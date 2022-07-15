@@ -1,13 +1,17 @@
-# v4.0.2
+# v4.0.3
 
-Adjusted main shield labels on Analog select. 
+Fixed main shield labels on Analog select. Not printed yet.
+
+# v4.0.2 (July 2018)
+
+Adjusted main shield labels.
 
 Additional Satellite board named Port Extender is designed for projects that need to control more input and output devices.
 
-#### Port Extender v1.0
+#### Port Extender v1.0 
 The Port Extender board was designed for use with the dedicated i2c port, Port D on the Main Shield and intended for projects that need to control more input and output devices. The Port Extender is equipped with two MCP23017 i2c 16-bit i/o digital port expanders, a CD74HC4051 8-channel multiplexer, and a CD74HC4067 16-channel multiplexer.  The Port Extender uses i2c pins (A4/A5 on Arduino Uno), analog pin (A3), and a PWM pin (D5~) in order to increase the number of usable digital, analog, and PWM pins.
 
-# v4.0
+# v4.0 (May 2018)
 
 Adjusted main shield pin configuration. 
 
@@ -34,7 +38,7 @@ The Museduino shield distributes 20 Arduino pins between 4 CAT5/RJ-45 â€œportsâ€
 ** analog switch
 
 
-# v3
+# v3 (Jan 2018)
 
 All boards redesigned with Kicad. No functionaly changed, but replaced DPDT switch on main shield due to cost increase.  
 
