@@ -1,10 +1,10 @@
-# v4.0.3
+# v4.0.3 (Dec 2019)
 
-Fixed main shield labels on Analog select. Not printed yet.
+Fixed main shield labels on Analog select. 
 
 # v4.0.2 (July 2018)
 
-Adjusted main shield labels.
+Kicad 5 update. Adjusted main shield labels.
 
 Additional Satellite board named Port Extender is designed for projects that need to control more input and output devices.
 
@@ -40,7 +40,7 @@ The Museduino shield distributes 20 Arduino pins between 4 CAT5/RJ-45 â€œportsâ€
 
 # v3 (Jan 2018)
 
-All boards redesigned with Kicad. No functionaly changed, but replaced DPDT switch on main shield due to cost increase.  
+All boards redesigned with Kicad 4. No functionaly changed, but replaced DPDT switch on main shield due to cost increase.  
 
 Printed small run for testing purposes. 
 

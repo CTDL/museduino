@@ -15,3 +15,8 @@ View changelog.md for further information on changes between versions.
 ## Tutorials and Circuit Diagrams
 Content for workshops and museduino guides can be found under 
 <a href="https://github.com/CTDL/museduino/tree/master/tutorials">tutorials</a> folder.
+
+
+## Solder Instructions
+Component guides and step-by-step instructions coming soon.
+<a href="https://github.com/CTDL/museduino/tree/master/solder-instructions">solder-instructions</a> folder.
