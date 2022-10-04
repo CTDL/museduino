@@ -22,6 +22,6 @@ Component guides and step-by-step instructions coming soon.
 <a href="https://github.com/CTDL/museduino/tree/master/solder-instructions">solder-instructions</a> folder.
 
 
-## Open Source
+## License
 
 ![Licensing](Licenses.png)
