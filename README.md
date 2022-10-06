@@ -25,9 +25,10 @@ Component guides and step-by-step instructions coming soon.
 
 ## Open Source
 Museduino 4.0 is certified as OSHWA-compliant open source hardware.
+
 <a href="https://certification.oshwa.org/us002128.html">certification.oshwa.org/us002128.html</a>
 
-![certifiction](https://github.com/CTDL/museduino/blob/master/oshwa-uid-logos/oshwa-UID-US002128.png)
+![certification](https://github.com/CTDL/museduino/blob/master/oshwa-uid-logos/oshwa-UID-US002128.png)
 
 
 ## License
