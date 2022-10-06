@@ -14,7 +14,7 @@ View changelog.md for further information on changes between versions.
 
 
 ## Tutorials and Circuit Diagrams
-Content for workshops and museduino guides can be found under 
+Content for workshops and Museduino guides can be found under 
 <a href="https://github.com/CTDL/museduino/tree/master/tutorials">tutorials</a> folder.
 
 
@@ -26,7 +26,8 @@ Component guides and step-by-step instructions coming soon.
 ## Open Source
 Museduino 4.0 is certified as OSHWA-compliant open source hardware.
 <a href="https://certification.oshwa.org/us002128.html">certification.oshwa.org/us002128.html</a>
-![certifiction](oshwa-uid-us002128.png)
+
+![certifiction](https://github.com/CTDL/museduino/blob/master/oshwa-uid-logos/oshwa-UID-US002128.png)
 
 
 ## License
