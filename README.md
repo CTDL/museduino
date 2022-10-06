@@ -22,6 +22,14 @@ Component guides and step-by-step instructions coming soon.
 <a href="https://github.com/CTDL/museduino/tree/master/solder-instructions">solder-instructions</a> folder.
 
 
+## Open Source
+Museduino 4.0 is certified as OSHWA-compliant open source hardware.
+
+![certifiction](oshwa-uid-us002128.png)
+
+ <a href="https://certification.oshwa.org/us002128.html">certification.oshwa.org/us002128.html</a>
+
 ## License
 
 ![Licensing](Licenses.png)
+
