@@ -1,6 +1,7 @@
 # museduino
 an open source electronics environment for exhibits
-| <a href="https://museduino.org">museduino.org</a>
+
+Docs: <a href="https://museduino.org">museduino.org</a>
 
 
 ## PCB design files and Schematics
@@ -24,10 +25,9 @@ Component guides and step-by-step instructions coming soon.
 
 ## Open Source
 Museduino 4.0 is certified as OSHWA-compliant open source hardware.
-
+<a href="https://certification.oshwa.org/us002128.html">certification.oshwa.org/us002128.html</a>
 ![certifiction](oshwa-uid-us002128.png)
 
- <a href="https://certification.oshwa.org/us002128.html">certification.oshwa.org/us002128.html</a>
 
 ## License
 
